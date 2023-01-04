@@ -5,4 +5,4 @@ I traced a bunch of circles (and a couple of squares for variety) on a piece of 
 
 ![](gen4.jpg)
 
-Tags: #genuary #genuary2023 #genuary4 #jwildfire
+Tags: #genuary #genuary2023 #genuary4
