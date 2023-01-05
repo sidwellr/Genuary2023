@@ -10,7 +10,8 @@ The debug view shows the flow field using blue arrows. I also added a "trails" f
 A video is included in this directory along with the Rust source code. If you have Rust installed, copy the files to your computer, change to the directory, and type `cargo run --release` to run it. Press 'D' to toggle debug mode and 'T' to toggle the trails feature.
 
 Links:
-[Nature of Code](https://natureofcode.com/)
-[Nannou framework](https://nannou.cc/)
+[Nature of Code](https://natureofcode.com/)  
+[Nannou framework](https://nannou.cc/)  
+[Vlog demonstrating the program](https://youtu.be/ZPZnvkhw_L8)  
 
-Tags: #genuary #genuary2023 #genuary5 #jwildfire
+Tags: #genuary #genuary2023 #genuary5
