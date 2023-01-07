@@ -8,3 +8,5 @@ I made a gnarl in JWildfire; params are in the folder. JWildfire has a feature t
 The color palette comes from the cover for the album [*My Eyes Are Wildflowers*](https://jenisagesidwell.bandcamp.com/album/my-eyes-are-wildflowers) by my niece JeniSage Sidwell. I don't remember the artist's name.
 
 ![](MyEyesAreWildflowers.jpg)
+
+Tags: #genuary #genuary2023 #genuary7 #jwildfire
