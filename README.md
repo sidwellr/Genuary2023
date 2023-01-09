@@ -25,3 +25,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **8. Signed Distance Functions** (Ultra Fractal)
 ![](08/gen08.png)
 
+**9. Plants** (JWildfire)
+![](09/gen09a.png)
+
