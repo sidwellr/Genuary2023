@@ -28,3 +28,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **9. Plants** (JWildfire)
 ![](09/gen09a.png)
 
+**10. Generative music** (VCV Rack)
+![](10/gen10.png)
+
