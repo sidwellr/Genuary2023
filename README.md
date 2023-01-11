@@ -31,3 +31,5 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **10. Generative music** (VCV Rack)
 ![](10/gen10.png)
 
+**11. Suprematism** (p5.js)
+![](11/gen11a.png)
