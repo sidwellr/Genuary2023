@@ -36,3 +36,7 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **12. Tessellation** (JWildfire)
 ![](12/gen12.png)
+
+**13. Something you’ve always wanted to learn** (Oil on wood)
+![](13/gen13.jpg)
+
