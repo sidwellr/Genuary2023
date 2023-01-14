@@ -6,13 +6,13 @@ const chargridy = 4;
 const charstrokes = 5;
 
 // character stroke width
-const charstroke = 3;
+const charstroke = 2;
 
 // character size
-const charsize = 10;
+const charsize = 5;
 
 // probability of space
-const spaceprob = 0.2;
+const spaceprob = 0.3;
 
 function setup() {
   createCanvas(800, 1000);
