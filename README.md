@@ -40,3 +40,5 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **13. Something you’ve always wanted to learn** (Oil on wood)
 ![](13/gen13.jpg)
 
+**14. Aesemic** (p5.js)
+![](14/gen14a.png)
