@@ -42,3 +42,7 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **14. Aesemic** (p5.js)
 ![](14/gen14a.png)
+
+**15. Sine Waves** (JWildfire/Java)
+![](15/gen15.png)
+
