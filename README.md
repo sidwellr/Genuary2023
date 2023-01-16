@@ -1,5 +1,5 @@
 # Genuary2023
-My work for Genuary 2023 (see https://genuary.art/). See individual folders for each day.
+My work for Genuary 2023 (see https://genuary.art/). See individual folders for more details on each day.
 
 **1. Perfect loop** (JWildfire)
 ![](01/gen1.png)
@@ -46,3 +46,5 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **15. Sine Waves** (JWildfire/Java)
 ![](15/gen15.png)
 
+**16. Reflection of a reflection** (JWildfire)
+![](16/gen16.png)
