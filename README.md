@@ -48,3 +48,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **16. Reflection of a reflection** (JWildfire)
 ![](16/gen16.png)
+
+**17. A grid inside a grid inside a grid** (p5.js)
+![](17/gen17.png)
