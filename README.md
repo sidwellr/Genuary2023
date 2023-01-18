@@ -51,3 +51,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **17. A grid inside a grid inside a grid** (p5.js)
 ![](17/gen17.png)
+
+**18. Definitely not a grid** (Acrylic on cardboard)
+![](18/gen18a.png)
