@@ -54,3 +54,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **18. Definitely not a grid** (Acrylic on cardboard)
 ![](18/gen18a.png)
+
+**19. Black and white** (JWildfire)
+![](19/gen19.png)
