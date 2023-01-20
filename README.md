@@ -57,3 +57,7 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **19. Black and white** (JWildfire)
 ![](19/gen19.png)
+
+**20. Art Deco** (p5.js)
+![](20/gen20a.png)
+
