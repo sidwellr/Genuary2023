@@ -61,3 +61,5 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **20. Art Deco** (p5.js)
 ![](20/gen20a.png)
 
+**21. Persian Rug** (Ultra Fractal)
+![](21/gen21.png)
