@@ -63,3 +63,7 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 
 **21. Persian Rug** (Ultra Fractal)
 ![](21/gen21.png)
+
+**22. Shadows** (JWildfire)
+![](22/gen22.png)
+
