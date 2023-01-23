@@ -67,3 +67,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **22. Shadows** (JWildfire)
 ![](22/gen22.png)
 
+**23. More Moiré** (p5.js)
+![](23/gen23a.png)
+
