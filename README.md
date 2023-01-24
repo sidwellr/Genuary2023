@@ -70,3 +70,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **23. More Moiré** (p5.js)
 ![](23/gen23a.png)
 
+**24. Textile** (JWildfire)
+![](24/gen24.png)
+
