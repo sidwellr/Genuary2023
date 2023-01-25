@@ -73,3 +73,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **24. Textile** (JWildfire)
 ![](24/gen24.png)
 
+**25. Yayoi Kusama** (Ultra Fractal)
+![](25/gen25a.png)
+
