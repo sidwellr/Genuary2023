@@ -76,3 +76,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **25. Yayoi Kusama** (Ultra Fractal)
 ![](25/gen25a.png)
 
+**26. My kid could have made that** (Fingerpaint on paper)
+![](26/gen26.png)
+
