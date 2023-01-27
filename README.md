@@ -79,3 +79,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **26. My kid could have made that** (Fingerpaint on paper)
 ![](26/gen26.png)
 
+**27. In the style of Hilma Af Klint** (JWildfire)
+![](27/gen27.png)
+
