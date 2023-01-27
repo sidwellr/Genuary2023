@@ -5,4 +5,8 @@ I traced a bunch of circles (and a couple of squares for variety) on a piece of 
 
 ![](gen4.jpg)
 
+Here's a similar piece I made in December 2021 with colored pencil at a Jump the Moon studio event.
+
+![](gen4b.png)
+
 Tags: #genuary #genuary2023 #genuary4
