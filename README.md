@@ -85,3 +85,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **28. Generative poetry** (JWildfire)
 ![](28/gen28.png)
 
+**29. Maximalism** (JWildfire)
+![](29/gen29.png)
+
