@@ -88,3 +88,6 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **29. Maximalism** (JWildfire)
 ![](29/gen29.png)
 
+**30. Minimalism** (JWildfire)
+![](30/gen30.png)
+
