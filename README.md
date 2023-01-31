@@ -91,3 +91,5 @@ My work for Genuary 2023 (see https://genuary.art/). See individual folders for 
 **30. Minimalism** (JWildfire)
 ![](30/gen30.png)
 
+**31. Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.** (JWildfire)
+![](31/gen31.png)
